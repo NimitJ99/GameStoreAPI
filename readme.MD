@@ -28,7 +28,7 @@ This project is a .NET API designed to provide various functionalities for web a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/NimitJ99/GameStoreAPI.git
     ```
 2. Navigate to the project directory:
     ```sh
